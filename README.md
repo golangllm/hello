@@ -19,3 +19,9 @@ go get -u github.com/golangllm/hello
 git tag v1.0.0
 git push origin v1.0.0
 ```
+
+```
+go work init
+go work use service-hi
+go work use .
+```

@@ -1,6 +1,6 @@
 go 1.25.6
 
 use (
+	.
 	./service-hi
-	./service-say
 )
